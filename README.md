@@ -1,5 +1,5 @@
-mmal: mmal_vc_component_enable: failed to enable component: ENOSPC
-mmal: camera component couldn't be enabled
-mmal: main: Failed to create camera component
-mmal: Failed to run camera app. Please check for firmware updates
+Made X/EGL preview window
+[0:03:55.830066017] [1243]  INFO Camera camera_manager.cpp:297 libcamera v0.0.5+83-bde9b04f
+ERROR: *** no cameras available ***
+
 
